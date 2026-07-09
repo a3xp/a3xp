@@ -15,7 +15,6 @@ That usually means breaking stuff, fixing it, breaking it again, and pretending 
 
 * Linux
 * Embedded systems
-* Raspberry Pi
 * Homelabs
 * Networking
 * Retrogaming
@@ -25,6 +24,7 @@ That usually means breaking stuff, fixing it, breaking it again, and pretending 
 * Meditation stuff
 * Learning by doing
 * Old hardware that still refuses to die
+* Zelda
 
 ## Things I don’t like
 
@@ -32,7 +32,7 @@ That usually means breaking stuff, fixing it, breaking it again, and pretending 
 * Software that hides everything from the user
 * Tutorials that explain everything except the part that actually matters
 * Devices with zero ports
-* Code that works but nobody knows why
+  
 
 ## Current goal
 
