@@ -24,7 +24,7 @@ That usually means breaking stuff, fixing it, breaking it again, and pretending 
 * Meditation stuff
 * Learning by doing
 * Old hardware that still refuses to die
-* Zelda
+  
 
 ## Things I don’t like
 
